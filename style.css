@@ -1,0 +1,87 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    margin: 0;
+    padding: 0%;
+    background-color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+section {
+    background: #eaeaea;
+    padding-top: 15px;
+}
+.post{
+    background-color: white;
+    margin: auto;
+    width: 400px;
+    border: 1px solid #dadddd;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+img {
+    width: 100%;
+    height: 320px;
+}
+div.header {
+    padding: 10px;
+    padding-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 0;
+}
+
+div.header h2 {
+    font-size: 10px;
+    margin: 0;
+    float: inline-start;
+}
+div.header p {
+    margin: 0;
+    font-size: 10px;
+    float:inherit;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    padding-top: 0;
+    margin-top: 0;
+}
+div.header img {
+    width: 30px;
+    height: 20px;
+   float: left;   
+}
+div.icons {
+    display: flex;
+}
+div.post-icons {
+    padding: 2%;
+    padding-left: 15px;
+}
+div.guardar {
+    padding: 2%;
+    padding-left: 295px;
+    align-items: left;
+}
+div.description {
+    padding: 15px;
+    padding-bottom: 5px;
+    padding-top: 1px;
+    text-align:left;
+    font-size: 12px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
