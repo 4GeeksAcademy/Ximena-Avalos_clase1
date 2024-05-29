@@ -53,15 +53,16 @@ div.header img {
 }
 div.icons {
     display: flex;
+    justify-content: space-between;
 }
 div.post-icons {
     padding: 2%;
     padding-left: 15px;
+
 }
 div.guardar {
     padding: 2%;
-    padding-left: 295px;
-    align-items: left;
+ 
 }
 div.description {
     padding: 15px;
